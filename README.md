@@ -1,1 +1,1 @@
-This project analyzes MTA data in order to help a company maximize the awareness for women in STEM.
+This project analyzes MTA data to optimize the number of ideal signatures for a women in STEM gala.
