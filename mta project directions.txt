@@ -1,0 +1,41 @@
+Dear Python professionals,
+
+We are interested in harnessing the power of data and analytics to optimize the effectiveness of our street team work, which is a significant portion of our fundraising efforts. 
+
+WomenTechWomenYes (WTWY) has an annual gala at the beginning of the summer each year. As we are a new and inclusive organization, we try to do double duty with the gala both to fill our event space with individuals passionate about increasing the participation of women in technology, and to concurrently build awareness and reach.
+
+To this end we place street teams at entrances to subway stations. The street teams collect email addresses and those who sign up are sent free tickets to our gala.
+
+We would like to solicit your analysis to use MTA subway data, which is available freely from the city (http://web.mta.info/developers/turnstile.html) , to help us optimize the placement of our street teams.
+
+We will have ten volunteers that can advertise in the subways for four hours per day each (they are willing to volunteer in one four-hour shift or in 2 two-hour shifts each day.) They are willing to help out for seven days in a row, so we plan on doing all of our advertising during one seven-day blitz.
+
+ Our goal is to gather the most signatures, ideally from those who will attend the gala and contribute to our cause. 
+
+Please give us a clear, detailed presentation outlining your analysis and suggestions.
+
+							Sincerely,
+
+							WTWY
+
+You may or may not want to include the following factors in your analysis:
+
+1. Differentiating between morning and evening placement.
+
+2. Differentiating between weekday and weekend placement.
+
+3. Differentiating between tourist and commuter stops.
+
+4. Differentiating between what subway turnstile entries versus exits tell you.
+
+5. Focusing on where women in technology would be located specifically.
+
+You DEFINITELY want to include the following considerations:
+
+1. Your code needs to be correct, but more importantly for this project:
+
+2. YOUR PRESENTATION NEEDS TO BE PROFESSIONAL. You need extremely clear slides and explanations. YOU CANNOT HAVE TOO MUCH TEXT ON YOUR SLIDES. They need to be readable and interesting. You should create maps and charts to help visualize your suggestions.
+
+3. YOUR TEAMWORK ALSO NEEDS TO BE ON POINT. The work needs to be divided evenly and the communication should be seamless. Your groupmates should always know what you are doing and be able to reach you over email.
+
+4. Your analysis needs to be not only accurate but creative as well. You should have at least one thing in your group that is unique to other groups, or else, why would this organization want to hire you?
